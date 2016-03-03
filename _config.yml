@@ -1,0 +1,8 @@
+excerpt_separator: ""
+pygments: true
+markdown: kramdown
+url: http://mcrealestateph.github.io
+title: MC Real Estate PH
+tagline: MC Real Estate PH - Real Estate Properties For Sale and Lease in the Philippines
+description: My awesome new site
+paginate: 50
